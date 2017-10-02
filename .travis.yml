@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+- '7'
+deploy:
+  provider: heroku
+  api_key: 
+    secure: 72b44b47-cf1a-41f1-b934-450b7d1aea53
+  app: tranquil-plains-63580
