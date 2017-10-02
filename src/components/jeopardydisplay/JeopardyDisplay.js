@@ -18,6 +18,7 @@ export class JeopardyDisplay extends Component {
     return (
     <div>
       Question should be here
+      Testing final building stuff
         {/* {this.question.question} */}
     </div>
     );
